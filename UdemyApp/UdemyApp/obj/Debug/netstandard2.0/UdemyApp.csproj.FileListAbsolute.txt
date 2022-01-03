@@ -1,0 +1,13 @@
+C:\Users\ergun\Desktop\DENEMELER\UdemyApp\UdemyApp\UdemyApp\bin\Debug\netstandard2.0\UdemyApp.deps.json
+C:\Users\ergun\Desktop\DENEMELER\UdemyApp\UdemyApp\UdemyApp\bin\Debug\netstandard2.0\UdemyApp.dll
+C:\Users\ergun\Desktop\DENEMELER\UdemyApp\UdemyApp\UdemyApp\bin\Debug\netstandard2.0\UdemyApp.pdb
+C:\Users\ergun\Desktop\DENEMELER\UdemyApp\UdemyApp\UdemyApp\obj\Debug\netstandard2.0\UdemyApp.csproj.AssemblyReference.cache
+C:\Users\ergun\Desktop\DENEMELER\UdemyApp\UdemyApp\UdemyApp\obj\Debug\netstandard2.0\UdemyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ergun\Desktop\DENEMELER\UdemyApp\UdemyApp\UdemyApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ergun\Desktop\DENEMELER\UdemyApp\UdemyApp\UdemyApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ergun\Desktop\DENEMELER\UdemyApp\UdemyApp\UdemyApp\obj\Debug\netstandard2.0\UdemyApp.AssemblyInfoInputs.cache
+C:\Users\ergun\Desktop\DENEMELER\UdemyApp\UdemyApp\UdemyApp\obj\Debug\netstandard2.0\UdemyApp.AssemblyInfo.cs
+C:\Users\ergun\Desktop\DENEMELER\UdemyApp\UdemyApp\UdemyApp\obj\Debug\netstandard2.0\UdemyApp.csproj.CoreCompileInputs.cache
+C:\Users\ergun\Desktop\DENEMELER\UdemyApp\UdemyApp\UdemyApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ergun\Desktop\DENEMELER\UdemyApp\UdemyApp\UdemyApp\obj\Debug\netstandard2.0\UdemyApp.dll
+C:\Users\ergun\Desktop\DENEMELER\UdemyApp\UdemyApp\UdemyApp\obj\Debug\netstandard2.0\UdemyApp.pdb

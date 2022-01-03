@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EeL7K64ZZWwuvRfJbuIy58pwyGrMuHdCJfeQZapiGc8m7z5N3oetJsYs6nTjt6jlcEBQ2J3R2F1MvwL2VgrWvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ergun\\Desktop\\DENEMELER\\UdemyApp\\UdemyApp\\UdemyApp\\UdemyApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ergun\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ergun\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
