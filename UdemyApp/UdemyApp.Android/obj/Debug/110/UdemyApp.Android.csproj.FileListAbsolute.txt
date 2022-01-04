@@ -32,7 +32,6 @@ C:\Users\ergun\Desktop\DENEMELER\UdemyApp\UdemyApp\UdemyApp.Android\obj\Debug\11
 C:\Users\ergun\Desktop\DENEMELER\UdemyApp\UdemyApp\UdemyApp.Android\obj\Debug\110\R.txt
 C:\Users\ergun\Desktop\DENEMELER\UdemyApp\UdemyApp\UdemyApp.Android\obj\Debug\110\R.cs.flag
 C:\Users\ergun\Desktop\DENEMELER\UdemyApp\UdemyApp\UdemyApp.Android\obj\Debug\110\UdemyApp.Android.csproj.CoreCompileInputs.cache
-C:\Users\ergun\Desktop\DENEMELER\UdemyApp\UdemyApp\UdemyApp.Android\obj\Debug\110\UdemyApp.Android.csproj.CopyComplete
 C:\Users\ergun\Desktop\DENEMELER\UdemyApp\UdemyApp\UdemyApp.Android\obj\Debug\110\UdemyApp.Android.dll
 C:\Users\ergun\Desktop\DENEMELER\UdemyApp\UdemyApp\UdemyApp.Android\obj\Debug\110\UdemyApp.Android.pdb
 C:\Users\ergun\Desktop\DENEMELER\UdemyApp\UdemyApp\UdemyApp.Android\obj\Debug\110\android\bin\com.companyname.UdemyApp.apk
